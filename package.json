@@ -1,0 +1,11 @@
+{
+  "name": "hw_shopping_basket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basket.js",
+  "scripts": {
+    "test": "mocha specs/"
+  },
+  "author": "",
+  "license": "ISC"
+}
