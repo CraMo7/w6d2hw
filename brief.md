@@ -1,7 +1,7 @@
 #Shopping Basket Lab
-We need to find the price of a shopping basket.
-A shopping basket can have multiple items.
-It should be able to add and remove items.
+- We need to find the price of a shopping basket.
+- A shopping basket can have multiple items.
+- It should be able to add and remove items.
 
 Discounts:
 
